@@ -11,7 +11,7 @@ This article leads you through basic concepts and examples of client-side form v
 **Prerequisites**:	Computer literacy, a reasonable understanding of **HTML, CSS, and JavaScript.**
 **Objective**:	To understand what client-side form validation is, why it's important, and how to apply various techniques to implement it.
 
-#Different types of client-side validation
+# Different types of client-side validation
 
 **1.Built-in form validation** uses HTML5 form validation features, 
 which we've discussed in many places throughout this module. 
